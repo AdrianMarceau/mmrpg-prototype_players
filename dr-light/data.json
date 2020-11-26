@@ -1,0 +1,65 @@
+{
+    "player_token": "dr-light",
+    "player_number": 1,
+    "player_name": "Dr. Light",
+    "player_name_full": "Dr. Thomas X. Light",
+    "player_game": "MM1",
+    "player_class": "player",
+    "player_gender": "male",
+    "player_image": "dr-light",
+    "player_image_size": 40,
+    "player_image_editor": "rhythmbca",
+    "player_image_editor2": "",
+    "player_image_alts": [],
+    "player_type": "defense",
+    "player_type2": "",
+    "player_description": "",
+    "player_description2": "Rightfully known as the father of modern robotics, Dr. Thomas Light is renowned the world over not only for his work in revolutionizing independent robotic thought, but also for creating everyone\u2019s favorite blue hero, Mega Man! Starting from humble beginnings, Thomas Light attended the Robot Institute of Technology, where he advocated giving machines a sense of self-judgement and decision-making, to give them a \u201csoul\u201d... a belief he was ridiculed by most for, save for his colleague, Albert Wily. However, both of them being promising inventors, this naturally led to competition\u2026 And competition eventually led to envy and contempt, causing the two to split ways. Light went on to earn his doctorate to massive acclaim, and after a failed military prototype, went on to succeed in his lifelong dream by creating his two cherished children, Rock and Roll. He then constructed his series of industrial-use \u2018Robot Masters\u2019, but disaster promptly struck; Dr. Wily had commandeered his Robot Masters, and promised before the whole world that he\u2019d be the one to make his mark in history. Dr. Light had given up all hope, when to his surprise and anguish, Rock had asked to be weaponized to fight off Dr. Wily\u2019s conquest, a war he continually fights to this day. In terms of his character, Dr. Light may be one of the kindest souls out there, seeking out the good in every individual, living or otherwise. However, if there is a regret that throbs at him terribly, it\u2019s that he never rightfully made amends to his once-esteemed friend, Albert\u2026 But one cannot dwell in the past, lest they lose sight of the future. In that regard, Dr. Light is always looking onward to further shorten the gap between humans and robots; for his next development, he\u2019s planning on making the next big step with his cognitive robot database, the Prototype.",
+    "player_energy": 0,
+    "player_weapons": 0,
+    "player_attack": 0,
+    "player_defense": 25,
+    "player_speed": 0,
+    "player_robot_hero": "mega-man",
+    "player_robot_support": "roll",
+    "player_field_intro": "gentle-countryside",
+    "player_field_home": "light-laboratory",
+    "player_abilities_rewards": [
+        {
+            "points": 0,
+            "token": "buster-shot"
+        },
+        {
+            "points": 0,
+            "token": "light-buster"
+        }
+    ],
+    "player_abilities_compatible": [],
+    "player_robots_rewards": [
+        {
+            "points": 0,
+            "token": "mega-man",
+            "level": 1
+        }
+    ],
+    "player_robots_compatible": [
+        "mega-man",
+        "roll",
+        "cut-man",
+        "guts-man",
+        "ice-man",
+        "bomb-man",
+        "fire-man",
+        "elec-man",
+        "time-man",
+        "oil-man"
+    ],
+    "player_quotes_start": "Fight, my robots! Together we cannot lose!",
+    "player_quotes_taunt": "Please surrender before anyone else gets hurt!",
+    "player_quotes_victory": "Ho ho ho! I couldn't have won without my wonderful robots!",
+    "player_quotes_defeat": "I'm so sorry everyone... I have failed you.",
+    "player_quotes_custom": [],
+    "player_flag_hidden": 0,
+    "player_flag_complete": 1,
+    "player_flag_published": 1
+}

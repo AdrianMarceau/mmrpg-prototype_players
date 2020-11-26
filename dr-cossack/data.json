@@ -1,0 +1,65 @@
+{
+    "player_token": "dr-cossack",
+    "player_number": 3,
+    "player_name": "Dr. Cossack",
+    "player_name_full": "Dr. Mikhail S. Cossack",
+    "player_game": "MM4",
+    "player_class": "player",
+    "player_gender": "male",
+    "player_image": "dr-cossack",
+    "player_image_size": 40,
+    "player_image_editor": "rhythmbca",
+    "player_image_editor2": "",
+    "player_image_alts": [],
+    "player_type": "speed",
+    "player_type2": "",
+    "player_description": "",
+    "player_description2": "Many may remember Dr. Mikhail Cossack as a sinister warmonger in the past, but to those who truly know him, he\u2019s an efficient roboticist and a dedicated father. As a young man, he was a student of the Ural Technical University who had traveled to America in order to develop his thesis, which is where he first made the acquaintance of Dr. Light. After attaining his doctorate in robotics, he rapidly garnered a reputation in his homeland and gained funding to create his own personal series of quite practical Robot Masters\u2026 he had so much of a reputation, in fact, that he unfortunately caught the eye of the heinous Dr. Wily. See, Wily knew that Dr. Cossack cherished his daughter Kalinka above anything else, so he took the young girl hostage in a vicious gambit to manipulate Dr. Cossack into destroying Mega Man! And while Kalinka was saved and Wily\u2019s plans were once again foiled by Mega Man, much of the goodwill lent to Cossack by the public was absolutely demolished regardless. He attempted to atone by developing Beat as a present to the Light family, as well as eventually returning to his passion by creating new robots like Tundra Man and establishing the Stravinsky Science Academy. And if Wily was right about anything, Cossack cherishes his family more than anything. He spends his days happily with his daughter nowadays, and they continue to pay their debt to the Light family by granting Proto Man a home to stay at whenever he wishes. Of course, Dr. Cossack hasn\u2019t just spent his days lazing about; he\u2019s seeking to restore public faith in him by assisting Dr. Light with the advancement of his latest project\u2026",
+    "player_energy": 0,
+    "player_weapons": 0,
+    "player_attack": 0,
+    "player_defense": 0,
+    "player_speed": 25,
+    "player_robot_hero": "proto-man",
+    "player_robot_support": "rhythm",
+    "player_field_intro": "wintry-forefront",
+    "player_field_home": "cossack-citadel",
+    "player_abilities_rewards": [
+        {
+            "points": 0,
+            "token": "buster-shot"
+        },
+        {
+            "points": 0,
+            "token": "cossack-buster"
+        }
+    ],
+    "player_abilities_compatible": [],
+    "player_robots_rewards": [
+        {
+            "points": 0,
+            "token": "proto-man",
+            "level": 21
+        }
+    ],
+    "player_robots_compatible": [
+        "proto-man",
+        "rhythm",
+        "bright-man",
+        "toad-man",
+        "drill-man",
+        "pharaoh-man",
+        "ring-man",
+        "dust-man",
+        "dive-man",
+        "skull-man"
+    ],
+    "player_quotes_start": "Let's end this quickly - I have many other things to do.",
+    "player_quotes_taunt": "Please do not waste my time - I've important business elsewhere\u2026",
+    "player_quotes_victory": "I had no doubt I would win. It was just a matter of timing.",
+    "player_quotes_defeat": "There must be some mistake\u2026 Did I miscalculate?",
+    "player_quotes_custom": [],
+    "player_flag_hidden": 0,
+    "player_flag_complete": 1,
+    "player_flag_published": 1
+}

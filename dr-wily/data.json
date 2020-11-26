@@ -1,0 +1,65 @@
+{
+    "player_token": "dr-wily",
+    "player_number": 2,
+    "player_name": "Dr. Wily",
+    "player_name_full": "Dr. Albert W. Wily",
+    "player_game": "MM1",
+    "player_class": "player",
+    "player_gender": "male",
+    "player_image": "dr-wily",
+    "player_image_size": 40,
+    "player_image_editor": "rhythmbca",
+    "player_image_editor2": "",
+    "player_image_alts": [],
+    "player_type": "attack",
+    "player_type2": "",
+    "player_description": "",
+    "player_description2": "If Dr. Light gave the world of robotics hope, then Dr. Wily is the one who struck fear into the heart of every man and robot. As a young man, things never came easy for Albert W. Wily, but his due diligence earned him a scholarship at the Robot Institute of Technology. It was there that he met Dr. Light, and as they bonded over their hopes of pushing robotics forward, they became close acquaintances. Albert had always naturally assumed he was the smarter of the two, but as his compatriot Light was constantly met with praise and awards, he only grew more and more embittered each time he ended up being second fiddle. Finally, this came to a breaking point when his \u2018Double Gear\u2019 system was publicly humiliated and rejected in favor of Light\u2019s work yet again; Wily had had enough! And so, Dr. Wily bided his time and prepared a mecha army from ill-gotten funds, eventually stealing Light\u2019s Robot Masters to cause havoc and forever stain his nemesis\u2019s name! However, when his victory seemed all but certain, one of the lab assistant robots he deemed worthless foiled his plans and became his eternal foe: Mega Man! Wily struck back, again and again, resorting to crueler and crueler methods like theft, viruses, manipulation, identity theft, frame-ups -- even using exterrestrial life and energy multiple times! And each time has led to failure, thanks to the heroism of Dr. Light\u2019s golden child. But Dr. Wily is nothing if not steadfast and stubborn, and he\u2019s hellbent on proving his superiority to his intellectual rival Dr. Light, no matter the cost. Of course, when the Robot Masters, Bass, his Wily Castles, and his Wily Machines all fail, he\u2019s never hesitant on pulling out the crocodile tears and begging for mercy. Now, no one\u2019s heard from the mad doctor in a while\u2026 but it wouldn\u2019t be far-fetched to believe he\u2019s keeping an uneasy eye on Dr. Light\u2019s latest developments.",
+    "player_energy": 0,
+    "player_weapons": 0,
+    "player_attack": 25,
+    "player_defense": 0,
+    "player_speed": 0,
+    "player_robot_hero": "bass",
+    "player_robot_support": "disco",
+    "player_field_intro": "maniacal-hideaway",
+    "player_field_home": "wily-castle",
+    "player_abilities_rewards": [
+        {
+            "points": 0,
+            "token": "buster-shot"
+        },
+        {
+            "points": 0,
+            "token": "wily-buster"
+        }
+    ],
+    "player_abilities_compatible": [],
+    "player_robots_rewards": [
+        {
+            "points": 0,
+            "token": "bass",
+            "level": 1
+        }
+    ],
+    "player_robots_compatible": [
+        "bass",
+        "disco",
+        "metal-man",
+        "air-man",
+        "bubble-man",
+        "quick-man",
+        "crash-man",
+        "flash-man",
+        "heat-man",
+        "wood-man"
+    ],
+    "player_quotes_start": "With my robots by my side, I'll take over this world!",
+    "player_quotes_taunt": "Your world is mine! Are you ready to be eliminated?",
+    "player_quotes_victory": "Feeling sorry for yourself? Mwhahaha!",
+    "player_quotes_defeat": "F-Forgive me! I only wanted to test your abilities!",
+    "player_quotes_custom": [],
+    "player_flag_hidden": 0,
+    "player_flag_complete": 1,
+    "player_flag_published": 1
+}

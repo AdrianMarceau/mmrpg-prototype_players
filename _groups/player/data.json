@@ -1,0 +1,12 @@
+{
+    "MMRPG": {
+        "group_class": "player",
+        "group_token": "MMRPG",
+        "group_order": 0,
+        "group_child_tokens": [
+            "dr-light",
+            "dr-wily",
+            "dr-cossack"
+        ]
+    }
+}
