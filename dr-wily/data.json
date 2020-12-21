@@ -39,20 +39,22 @@
         {
             "points": 0,
             "token": "bass",
-            "level": 1
+            "level": 11
         }
     ],
     "player_robots_compatible": [
         "bass",
         "disco",
-        "metal-man",
-        "air-man",
-        "bubble-man",
-        "quick-man",
-        "crash-man",
-        "flash-man",
-        "heat-man",
-        "wood-man"
+        "mega-man",
+        "roll",
+        "cut-man",
+        "guts-man",
+        "ice-man",
+        "bomb-man",
+        "fire-man",
+        "elec-man",
+        "time-man",
+        "oil-man"
     ],
     "player_quotes_start": "With my robots by my side, I'll take over this world!",
     "player_quotes_taunt": "Your world is mine! Are you ready to be eliminated?",
