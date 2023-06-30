@@ -28,10 +28,6 @@
         {
             "points": 0,
             "token": "buster-shot"
-        },
-        {
-            "points": 0,
-            "token": "light-buster"
         }
     ],
     "player_abilities_compatible": [],
