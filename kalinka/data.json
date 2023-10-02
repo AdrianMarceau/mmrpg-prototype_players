@@ -1,0 +1,53 @@
+{
+    "player_token": "kalinka",
+    "player_number": 5,
+    "player_name": "Kalinka",
+    "player_name_full": "Kalinka Cossack",
+    "player_game": "MMRPG",
+    "player_class": "player",
+    "player_gender": "female",
+    "player_image": "kalinka",
+    "player_image_size": 40,
+    "player_image_editor": "rhythmbca",
+    "player_image_editor2": "milansaponja",
+    "player_image_alts": [],
+    "player_type": "weapons",
+    "player_type2": "",
+    "player_description": "",
+    "player_description2": "",
+    "player_energy": 0,
+    "player_weapons": 25,
+    "player_attack": 0,
+    "player_defense": 0,
+    "player_speed": 0,
+    "player_robot_hero": "rock",
+    "player_robot_support": "rock",
+    "player_field_intro": "prototype-complete",
+    "player_field_home": "prototype-complete",
+    "player_abilities_rewards": [
+        {
+            "points": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "player_abilities_compatible": [],
+    "player_robots_rewards": [
+        {
+            "points": 0,
+            "token": "rock",
+            "level": 41
+        }
+    ],
+    "player_robots_compatible": [
+        "rock",
+        "rock"
+    ],
+    "player_quotes_start": "",
+    "player_quotes_taunt": "",
+    "player_quotes_victory": "",
+    "player_quotes_defeat": "",
+    "player_quotes_custom": [],
+    "player_flag_hidden": 1,
+    "player_flag_complete": 1,
+    "player_flag_published": 1
+}
