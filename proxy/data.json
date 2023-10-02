@@ -1,0 +1,53 @@
+{
+    "player_token": "proxy",
+    "player_number": 4,
+    "player_name": "Proxy",
+    "player_name_full": "Proxy",
+    "player_game": "MMRPG",
+    "player_class": "player",
+    "player_gender": "none",
+    "player_image": "player",
+    "player_image_size": 40,
+    "player_image_editor": "",
+    "player_image_editor2": "",
+    "player_image_alts": [],
+    "player_type": "energy",
+    "player_type2": "",
+    "player_description": "",
+    "player_description2": "",
+    "player_energy": 25,
+    "player_weapons": 0,
+    "player_attack": 0,
+    "player_defense": 0,
+    "player_speed": 0,
+    "player_robot_hero": "rock",
+    "player_robot_support": "rock",
+    "player_field_intro": "prototype-complete",
+    "player_field_home": "prototype-complete",
+    "player_abilities_rewards": [
+        {
+            "points": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "player_abilities_compatible": [],
+    "player_robots_rewards": [
+        {
+            "points": 0,
+            "token": "rock",
+            "level": 31
+        }
+    ],
+    "player_robots_compatible": [
+        "rock",
+        "rock"
+    ],
+    "player_quotes_start": "",
+    "player_quotes_taunt": "",
+    "player_quotes_victory": "",
+    "player_quotes_defeat": "",
+    "player_quotes_custom": [],
+    "player_flag_hidden": 1,
+    "player_flag_complete": 0,
+    "player_flag_published": 0
+}
