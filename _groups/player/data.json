@@ -8,5 +8,21 @@
             "dr-wily",
             "dr-cossack"
         ]
+    },
+    "MMRPG\/Hidden": {
+        "group_class": "player",
+        "group_token": "MMRPG\/Hidden",
+        "group_order": 1,
+        "group_child_tokens": [
+            "proxy"
+        ]
+    },
+    "MMRPG\/Pseudo": {
+        "group_class": "player",
+        "group_token": "MMRPG\/Pseudo",
+        "group_order": 2,
+        "group_child_tokens": [
+            "kalinka"
+        ]
     }
 }
