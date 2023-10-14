@@ -10,7 +10,38 @@
     "player_image_size": 40,
     "player_image_editor": "adrianmarceau",
     "player_image_editor2": "milansaponja",
-    "player_image_alts": [],
+    "player_image_alts": [
+        {
+            "token": "alt",
+            "name": "Proxy (Unmasked)",
+            "summons": 100,
+            "colour": "experience"
+        },
+        {
+            "token": "alt2",
+            "name": "Proxy (Slur)",
+            "summons": 200,
+            "colour": "energy"
+        },
+        {
+            "token": "alt3",
+            "name": "Proxy (Light)",
+            "summons": 300,
+            "colour": "defense"
+        },
+        {
+            "token": "alt4",
+            "name": "Proxy (Wily)",
+            "summons": 400,
+            "colour": "attack"
+        },
+        {
+            "token": "alt5",
+            "name": "Proxy (Cossack)",
+            "summons": 500,
+            "colour": "speed"
+        }
+    ],
     "player_type": "energy",
     "player_type2": "",
     "player_description": "",
