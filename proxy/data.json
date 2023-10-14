@@ -6,10 +6,10 @@
     "player_game": "MMRPG",
     "player_class": "player",
     "player_gender": "none",
-    "player_image": "player",
+    "player_image": "proxy",
     "player_image_size": 40,
-    "player_image_editor": "",
-    "player_image_editor2": "",
+    "player_image_editor": "adrianmarceau",
+    "player_image_editor2": "milansaponja",
     "player_image_alts": [],
     "player_type": "energy",
     "player_type2": "",
@@ -48,6 +48,6 @@
     "player_quotes_defeat": "",
     "player_quotes_custom": [],
     "player_flag_hidden": 1,
-    "player_flag_complete": 0,
-    "player_flag_published": 0
+    "player_flag_complete": 1,
+    "player_flag_published": 1
 }
