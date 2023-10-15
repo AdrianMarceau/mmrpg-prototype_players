@@ -10,7 +10,14 @@
     "player_image_size": 40,
     "player_image_editor": "rhythmbca",
     "player_image_editor2": "",
-    "player_image_alts": [],
+    "player_image_alts": [
+        {
+            "token": "alt",
+            "name": "Dr. Light (Santa Alt)",
+            "summons": 100,
+            "colour": "flame"
+        }
+    ],
     "player_type": "defense",
     "player_type2": "",
     "player_description": "",
