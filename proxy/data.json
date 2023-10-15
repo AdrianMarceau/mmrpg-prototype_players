@@ -8,8 +8,8 @@
     "player_gender": "none",
     "player_image": "proxy",
     "player_image_size": 40,
-    "player_image_editor": "adrianmarceau",
-    "player_image_editor2": "milansaponja",
+    "player_image_editor": "milansaponja",
+    "player_image_editor2": "adrianmarceau",
     "player_image_alts": [
         {
             "token": "alt",
@@ -46,6 +46,12 @@
             "name": "Proxy (Network Phantom \/\/ Tamako Shiraizumi)",
             "summons": 600,
             "colour": "cutter"
+        },
+        {
+            "token": "alt7",
+            "name": "Proxy (Network Phantom \/\/ Dex Oyama)",
+            "summons": 700,
+            "colour": "impact"
         }
     ],
     "player_type": "energy",
