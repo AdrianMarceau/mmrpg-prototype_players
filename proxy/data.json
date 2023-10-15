@@ -49,25 +49,25 @@
         },
         {
             "token": "alt7",
-            "name": "Proxy (Network Phantom \/\/ Dekao Oyama)",
+            "name": "Proxy (Network Phantom \/\/ Dex Oyama)",
             "summons": 700,
             "colour": "impact"
         },
         {
             "token": "alt8",
-            "name": "Proxy (Network Phantom \/\/ Eguchi Meijin)",
+            "name": "Proxy (Network Phantom \/\/ Mr. Famous)",
             "summons": 800,
             "colour": "time"
         },
         {
             "token": "alt9",
-            "name": "Proxy (Network Phantom \/\/ Meiru Sakurai)",
+            "name": "Proxy (Network Phantom \/\/ Mayl Sakurai)",
             "summons": 900,
             "colour": "laser"
         },
         {
             "token": "alt10",
-            "name": "Proxy (Network Phantom \/\/ Dokuta Rigaru)",
+            "name": "Proxy (Network Phantom \/\/ Dr. Regal)",
             "summons": 1000,
             "colour": "space"
         },
@@ -81,31 +81,61 @@
             "token": "alt12",
             "name": "Proxy (Network Phantom \/\/ Captain Blackbeard)",
             "summons": 1200,
-            "colour": "none"
+            "colour": "missile"
         },
         {
             "token": "alt13",
             "name": "Proxy (Network Phantom \/\/ Ribbita Midorikawa)",
             "summons": 1300,
-            "colour": "none"
+            "colour": "water"
         },
         {
             "token": "alt14",
             "name": "Proxy (Network Phantom \/\/ Dusk Miyabi) ",
             "summons": 1400,
-            "colour": "none"
+            "colour": "shadow"
         },
         {
             "token": "alt15",
-            "name": "Proxy (Network Phantom \/\/ Sal)",
+            "name": "Proxy (Network Phantom \/\/ Sal Saroma)",
             "summons": 1500,
-            "colour": "none"
+            "colour": "nature"
         },
         {
             "token": "alt16",
             "name": "Proxy (Network Phantom \/\/ Speedy Dave)",
             "summons": 1600,
-            "colour": "none"
+            "colour": "swift"
+        },
+        {
+            "token": "alt17",
+            "name": "Proxy (Network Phantom \/\/ Arashi Kazefuki)",
+            "summons": 1700,
+            "colour": "wind"
+        },
+        {
+            "token": "alt18",
+            "name": "Proxy (Network Phantom \/\/ Noboru Sunayama)",
+            "summons": 1800,
+            "colour": "earth"
+        },
+        {
+            "token": "alt19",
+            "name": "Proxy (Network Phantom \/\/ Rei Saiko)",
+            "summons": 1900,
+            "colour": "time"
+        },
+        {
+            "token": "alt20",
+            "name": "Proxy (Network Phantom \/\/ Mr. Match)",
+            "summons": 2000,
+            "colour": "flame"
+        },
+        {
+            "token": "alt21",
+            "name": "Proxy (Network Phantom \/\/ Ms. Madd)",
+            "summons": 2100,
+            "colour": "explode"
         }
     ],
     "player_type": "energy",
