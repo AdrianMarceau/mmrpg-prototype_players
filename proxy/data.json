@@ -49,9 +49,27 @@
         },
         {
             "token": "alt7",
-            "name": "Proxy (Network Phantom \/\/ Dex Oyama)",
+            "name": "Proxy (Network Phantom \/\/ Dekao Oyama)",
             "summons": 700,
             "colour": "impact"
+        },
+        {
+            "token": "alt8",
+            "name": "Proxy (Network Phantom \/\/ Eguchi Meijin)",
+            "summons": 800,
+            "colour": "time"
+        },
+        {
+            "token": "alt9",
+            "name": "Proxy (Network Phantom \/\/ Meiru Sakurai)",
+            "summons": 900,
+            "colour": "laser"
+        },
+        {
+            "token": "alt10",
+            "name": "Proxy (Network Phantom \/\/ Dokuta Rigaru)",
+            "summons": 1000,
+            "colour": "space"
         }
     ],
     "player_type": "energy",
