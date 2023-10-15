@@ -10,7 +10,14 @@
     "player_image_size": 40,
     "player_image_editor": "rhythmbca",
     "player_image_editor2": "",
-    "player_image_alts": [],
+    "player_image_alts": [
+        {
+            "token": "alt",
+            "name": "Dr. Cossack (Ded Moroz Alt)",
+            "summons": 100,
+            "colour": "water"
+        }
+    ],
     "player_type": "speed",
     "player_type2": "",
     "player_description": "",
