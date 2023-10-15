@@ -19,27 +19,33 @@
         },
         {
             "token": "alt2",
-            "name": "Proxy (Slur's Hologram)",
+            "name": "Proxy (Holo Proxy \/\/ Slur)",
             "summons": 200,
             "colour": "energy"
         },
         {
             "token": "alt3",
-            "name": "Proxy (Dr. Light's Hologram)",
+            "name": "Proxy (Holo Proxy \/\/ Dr. Light)",
             "summons": 300,
             "colour": "defense"
         },
         {
             "token": "alt4",
-            "name": "Proxy (Dr. Wily's Hologram)",
+            "name": "Proxy (Holo Proxy \/\/ Dr. Wily)",
             "summons": 400,
             "colour": "attack"
         },
         {
             "token": "alt5",
-            "name": "Proxy (Dr. Cossack's Hologram)",
+            "name": "Proxy (Holo Proxy \/\/ Dr. Cossack)",
             "summons": 500,
             "colour": "speed"
+        },
+        {
+            "token": "alt6",
+            "name": "Proxy (Network Phantom \/\/ Tamako Shiraizumi)",
+            "summons": 600,
+            "colour": "cutter"
         }
     ],
     "player_type": "energy",
