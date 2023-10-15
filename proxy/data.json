@@ -19,25 +19,25 @@
         },
         {
             "token": "alt2",
-            "name": "Proxy (Slur)",
+            "name": "Proxy (Slur's Hologram)",
             "summons": 200,
             "colour": "energy"
         },
         {
             "token": "alt3",
-            "name": "Proxy (Light)",
+            "name": "Proxy (Dr. Light's Hologram)",
             "summons": 300,
             "colour": "defense"
         },
         {
             "token": "alt4",
-            "name": "Proxy (Wily)",
+            "name": "Proxy (Dr. Wily's Hologram)",
             "summons": 400,
             "colour": "attack"
         },
         {
             "token": "alt5",
-            "name": "Proxy (Cossack)",
+            "name": "Proxy (Dr. Cossack's Hologram)",
             "summons": 500,
             "colour": "speed"
         }
