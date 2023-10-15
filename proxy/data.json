@@ -70,6 +70,42 @@
             "name": "Proxy (Network Phantom \/\/ Dokuta Rigaru)",
             "summons": 1000,
             "colour": "space"
+        },
+        {
+            "token": "alt11",
+            "name": "Proxy (Network Phantom \/\/ Count Zap) ",
+            "summons": 1100,
+            "colour": "electric"
+        },
+        {
+            "token": "alt12",
+            "name": "Proxy (Network Phantom \/\/ Captain Blackbeard)",
+            "summons": 1200,
+            "colour": "none"
+        },
+        {
+            "token": "alt13",
+            "name": "Proxy (Network Phantom \/\/ Ribbita Midorikawa)",
+            "summons": 1300,
+            "colour": "none"
+        },
+        {
+            "token": "alt14",
+            "name": "Proxy (Network Phantom \/\/ Dusk Miyabi) ",
+            "summons": 1400,
+            "colour": "none"
+        },
+        {
+            "token": "alt15",
+            "name": "Proxy (Network Phantom \/\/ Sal)",
+            "summons": 1500,
+            "colour": "none"
+        },
+        {
+            "token": "alt16",
+            "name": "Proxy (Network Phantom \/\/ Speedy Dave)",
+            "summons": 1600,
+            "colour": "none"
         }
     ],
     "player_type": "energy",
