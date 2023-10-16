@@ -136,6 +136,54 @@
             "name": "Proxy (Network Phantom \/\/ Ms. Madd)",
             "summons": 2100,
             "colour": "explode"
+        },
+        {
+            "token": "alt22",
+            "name": "Proxy (Divergent Echo \/\/ Newscaster)",
+            "summons": 2200,
+            "colour": "water"
+        },
+        {
+            "token": "alt23",
+            "name": "Proxy (Divergent Echo \/\/ Pedro Astil)",
+            "summons": 2300,
+            "colour": "electric"
+        },
+        {
+            "token": "alt24",
+            "name": "Proxy (Divergent Echo \/\/ Gilbert D. Stern)",
+            "summons": 2400,
+            "colour": "nature"
+        },
+        {
+            "token": "alt25",
+            "name": "Proxy (Divergent Echo \/\/ Roslyn Krantz)",
+            "summons": 2500,
+            "colour": "laser"
+        },
+        {
+            "token": "alt26",
+            "name": "Proxy (Divergent Echo \/\/ Princesa)",
+            "summons": 2600,
+            "colour": "crystal"
+        },
+        {
+            "token": "alt27",
+            "name": "Proxy (Divergent Echo \/\/ Lawyer)",
+            "summons": 2700,
+            "colour": "water"
+        },
+        {
+            "token": "alt28",
+            "name": "Proxy (Divergent Echo \/\/ Madame Y)",
+            "summons": 2800,
+            "colour": "laser"
+        },
+        {
+            "token": "alt29",
+            "name": "Proxy (Divergent Echo \/\/ Leonard Dorado)",
+            "summons": 2900,
+            "colour": "electric"
         }
     ],
     "player_type": "energy",
