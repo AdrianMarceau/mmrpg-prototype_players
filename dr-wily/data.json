@@ -16,6 +16,12 @@
             "name": "Dr. Wily (Holiday Alt)",
             "summons": 100,
             "colour": "nature"
+        },
+        {
+            "token": "alt2",
+            "name": "Dr. Wily (Mr. X Alt)",
+            "summons": 200,
+            "colour": "none"
         }
     ],
     "player_type": "attack",
