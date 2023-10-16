@@ -184,6 +184,12 @@
             "name": "Proxy (Divergent Echo \/\/ Leonard Dorado)",
             "summons": 2900,
             "colour": "electric"
+        },
+        {
+            "token": "alt30",
+            "name": "Proxy (Network Phantom \/\/ Ivan Chillski)",
+            "summons": 3000,
+            "colour": "none"
         }
     ],
     "player_type": "energy",
