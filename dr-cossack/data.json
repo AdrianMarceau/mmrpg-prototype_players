@@ -16,6 +16,12 @@
             "name": "Dr. Cossack (Ded Moroz Alt)",
             "summons": 100,
             "colour": "water"
+        },
+        {
+            "token": "alt2",
+            "name": "Dr. Cossack (Crowbar Alt) ",
+            "summons": 200,
+            "colour": "none"
         }
     ],
     "player_type": "speed",
