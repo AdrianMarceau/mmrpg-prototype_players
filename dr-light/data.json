@@ -16,6 +16,12 @@
             "name": "Dr. Light (Santa Alt)",
             "summons": 100,
             "colour": "flame"
+        },
+        {
+            "token": "alt2",
+            "name": "Dr. Light (Martial Artist Alt)",
+            "summons": 200,
+            "colour": "cutter"
         }
     ],
     "player_type": "defense",
