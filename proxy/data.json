@@ -10,6 +10,7 @@
     "player_image_size": 40,
     "player_image_editor": "milansaponja",
     "player_image_editor2": "adrianmarceau",
+    "player_image_editor3": "",
     "player_image_alts": [
         {
             "token": "alt",
@@ -189,7 +190,25 @@
             "token": "alt30",
             "name": "Proxy (Network Phantom \/\/ Ivan Chillski)",
             "summons": 3000,
-            "colour": "none"
+            "colour": "freeze"
+        },
+        {
+            "token": "alt31",
+            "name": "Proxy (Divergent Echo \/\/ Yuuta & Akane Kobayashi)",
+            "summons": 3100,
+            "colour": "experience"
+        },
+        {
+            "token": "alt32",
+            "name": "Proxy (Network Phantom \/\/ Masa) ",
+            "summons": 3200,
+            "colour": "water"
+        },
+        {
+            "token": "alt33",
+            "name": "Proxy (Network Phantom \/\/ Miyu Kuroi) ",
+            "summons": 3300,
+            "colour": "shadow"
         }
     ],
     "player_type": "energy",
