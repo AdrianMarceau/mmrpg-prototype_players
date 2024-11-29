@@ -10,7 +10,7 @@
     "player_image_size": 40,
     "player_image_editor": "milansaponja",
     "player_image_editor2": "adrianmarceau",
-    "player_image_editor3": "",
+    "player_image_editor3": "Rhythm",
     "player_image_alts": [
         {
             "token": "alt",
@@ -209,6 +209,30 @@
             "name": "Proxy (Network Phantom \/\/ Miyu Kuroi) ",
             "summons": 3300,
             "colour": "shadow"
+        },
+        {
+            "token": "alt34",
+            "name": "Proxy (Divergent Echo \/\/ Dr. Noele LaLinde)",
+            "summons": 3400,
+            "colour": "none"
+        },
+        {
+            "token": "alt35",
+            "name": "Proxy (Divergent Echo \/\/ Mr. X)",
+            "summons": 3500,
+            "colour": "none"
+        },
+        {
+            "token": "alt36",
+            "name": "Proxy (Divergent Echo \/\/ Suna Light)",
+            "summons": 3600,
+            "colour": "none"
+        },
+        {
+            "token": "alt37",
+            "name": "Proxy (Network Phantom \/\/ Dr. Froid) ",
+            "summons": 3700,
+            "colour": "none"
         }
     ],
     "player_type": "energy",
