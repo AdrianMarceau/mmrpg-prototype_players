@@ -233,6 +233,24 @@
             "name": "Proxy (Network Phantom \/\/ Dr. Froid) ",
             "summons": 3700,
             "colour": "none"
+        },
+        {
+            "token": "alt38",
+            "name": "Proxy (Divergent Echo \/\/ Dr. Nikola Oudin)",
+            "summons": 3800,
+            "colour": "none"
+        },
+        {
+            "token": "alt39",
+            "name": "Proxy (Divergent Echo \/\/ Dr. Lehrling)",
+            "summons": 3900,
+            "colour": "none"
+        },
+        {
+            "token": "alt40",
+            "name": "Proxy (Divergent Echo \/\/ Mr. Andrew Eastingham Jr.)",
+            "summons": 4000,
+            "colour": "none"
         }
     ],
     "player_type": "energy",
