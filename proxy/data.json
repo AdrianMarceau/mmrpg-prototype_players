@@ -251,6 +251,72 @@
             "name": "Proxy (Divergent Echo \/\/ Mr. Andrew Eastingham Jr.)",
             "summons": 4000,
             "colour": "none"
+        },
+        {
+            "token": "alt41",
+            "name": "Proxy (Network Phantom \/\/ Princess Pride) ",
+            "summons": 4100,
+            "colour": "none"
+        },
+        {
+            "token": "alt42",
+            "name": "Proxy (Network Phantom \/\/ Higsby) ",
+            "summons": 4200,
+            "colour": "none"
+        },
+        {
+            "token": "alt43",
+            "name": "Proxy (Divergent Echo \/\/ Xander Payne)",
+            "summons": 4300,
+            "colour": "none"
+        },
+        {
+            "token": "alt44",
+            "name": "Proxy (Divergent Echo \/\/ Chelsea)",
+            "summons": 4400,
+            "colour": "none"
+        },
+        {
+            "token": "alt45",
+            "name": "Proxy (Network Phantom \/\/ Master Feng-Tian) ",
+            "summons": 4500,
+            "colour": "none"
+        },
+        {
+            "token": "alt46",
+            "name": "Proxy (Network Phantom \/\/ Mary Towa) ",
+            "summons": 4600,
+            "colour": "none"
+        },
+        {
+            "token": "alt47",
+            "name": "Proxy (Network Phantom \/\/ Ms. Mari) ",
+            "summons": 4700,
+            "colour": "none"
+        },
+        {
+            "token": "alt48",
+            "name": "Proxy (Network Phantom \/\/ Ms. Yuri) ",
+            "summons": 4800,
+            "colour": "none"
+        },
+        {
+            "token": "alt49",
+            "name": "Proxy (Network Phantom \/\/ Gauss Magnets)",
+            "summons": 4900,
+            "colour": "none"
+        },
+        {
+            "token": "alt50",
+            "name": "Proxy (Network Phantom \/\/ Eugene Chaud)",
+            "summons": 5000,
+            "colour": "none"
+        },
+        {
+            "token": "alt51",
+            "name": "Proxy (Network Phantom \/\/ Dr. Emilia Right)",
+            "summons": 5100,
+            "colour": "none"
         }
     ],
     "player_type": "energy",
