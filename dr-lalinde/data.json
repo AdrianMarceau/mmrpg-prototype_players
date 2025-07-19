@@ -1,0 +1,54 @@
+{
+    "player_token": "dr-lalinde",
+    "player_number": 4,
+    "player_name": "Dr. LaLinde",
+    "player_name_full": "Dr. Noele H. LaLinde",
+    "player_game": "MMRPG",
+    "player_class": "player",
+    "player_gender": "female",
+    "player_image": "dr-lalinde",
+    "player_image_size": 40,
+    "player_image_editor": "milansaponja",
+    "player_image_editor2": "rhythmbca",
+    "player_image_editor3": "",
+    "player_image_alts": [],
+    "player_type": "energy",
+    "player_type2": "",
+    "player_description": "",
+    "player_description2": "A brilliant roboticist from a newer generation, Dr. LaLinde brings a fresh perspective to the field of robotics guided by empathy, innovation, and a deep respect for life - mechanical or otherwise. Once an assistant to Dr. Light, she developed her own distinct philosophy on robot design over the course of her career, notably shaped by her own experiences in the field and prioritizing emotional intelligence and self-expression alongside traditional utility. Her proudest creation, Tempo, stands as a testament to that ideal - a powerful combat robot with a uniquely human heart.  Though not as well-known as her peers, Dr. LaLinde operates with the quiet determination and unwavering conviction of someone thrice her tenure. She generally prefers working behind-the-scenes, leaving the pomp-and-circumstances to the scientific elite, but her contributions to the field-at-large have been anything but small.  LaLinde and her team were instrumental in the planning and creation of The Network, after all, so it's only natural she'd be tapped to consult for The Prototype.  At least, those are the rumours.",
+    "player_energy": 25,
+    "player_weapons": 0,
+    "player_attack": 0,
+    "player_defense": 0,
+    "player_speed": 0,
+    "player_robot_hero": "quake-woman",
+    "player_robot_support": "vesper-woman",
+    "player_field_intro": "prototype-complete",
+    "player_field_home": "prototype-complete",
+    "player_abilities_rewards": [
+        {
+            "points": 0,
+            "token": "buster-shot"
+        }
+    ],
+    "player_abilities_compatible": [],
+    "player_robots_rewards": [
+        {
+            "points": 0,
+            "token": "quake-woman",
+            "level": 31
+        }
+    ],
+    "player_robots_compatible": [
+        "quake-woman",
+        "vesper-woman"
+    ],
+    "player_quotes_start": "I'm not here to fight you - I'm here to change your mind.",
+    "player_quotes_taunt": "Your techniques are efficient, but your motivations are flawed.",
+    "player_quotes_victory": "Remember what happened here today.  Failure can teach us much.",
+    "player_quotes_defeat": "Even failure can teach us great lessons.  I must reflect on this experience.",
+    "player_quotes_custom": [],
+    "player_flag_hidden": 0,
+    "player_flag_complete": 1,
+    "player_flag_published": 1
+}
