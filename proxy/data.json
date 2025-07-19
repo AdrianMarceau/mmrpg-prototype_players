@@ -1,6 +1,6 @@
 {
     "player_token": "proxy",
-    "player_number": 4,
+    "player_number": 5,
     "player_name": "Proxy",
     "player_name_full": "Proxy",
     "player_game": "MMRPG",
@@ -319,12 +319,12 @@
             "colour": "none"
         }
     ],
-    "player_type": "energy",
+    "player_type": "weapons",
     "player_type2": "",
     "player_description": "",
-    "player_description2": "",
-    "player_energy": 25,
-    "player_weapons": 0,
+    "player_description2": "It appeared in this world seemingly out of nowhere, without respect to boundary or form, and it consumed everything in sight.  Though rumoured to be part of a power which eternally wills evil and eternally works good, the true nature of Proxy's actions and of its origin remain unknown to all.",
+    "player_energy": 0,
+    "player_weapons": 25,
     "player_attack": 0,
     "player_defense": 0,
     "player_speed": 0,
@@ -343,17 +343,17 @@
         {
             "points": 0,
             "token": "rock",
-            "level": 31
+            "level": 41
         }
     ],
     "player_robots_compatible": [
         "rock",
         "rock"
     ],
-    "player_quotes_start": "",
-    "player_quotes_taunt": "",
-    "player_quotes_victory": "",
-    "player_quotes_defeat": "",
+    "player_quotes_start": "Abandon all hope, ye who enter here.",
+    "player_quotes_taunt": "That which is now veiled shall one day be revealed.",
+    "player_quotes_victory": "I am become death, the destroyer of worlds.",
+    "player_quotes_defeat": "Beware the fury of the patient monster.",
     "player_quotes_custom": [],
     "player_flag_hidden": 1,
     "player_flag_complete": 1,
