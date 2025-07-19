@@ -48,7 +48,7 @@
     "player_quotes_victory": "Remember what happened here today.  Failure can teach us much.",
     "player_quotes_defeat": "Even failure can teach us great lessons.  I must reflect on this experience.",
     "player_quotes_custom": [],
-    "player_flag_hidden": 0,
+    "player_flag_hidden": 1,
     "player_flag_complete": 1,
     "player_flag_published": 1
 }
