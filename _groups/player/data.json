@@ -4,10 +4,10 @@
         "group_token": "MMRPG",
         "group_order": 0,
         "group_child_tokens": [
+            "dr-lalinde",
             "dr-light",
             "dr-wily",
-            "dr-cossack",
-            "dr-lalinde"
+            "dr-cossack"
         ]
     },
     "MMRPG\/Hidden": {
